@@ -1,7 +1,13 @@
-# Hayatudeen Yusuf — MIT 8103
+# MIT 8103 University Examination Management Exercise
 
-Student ID: 0467301911705
+Hayatudeen Yusuf · Student ID 0467301911705
 
-Develop a **University Examination Management System (UEMS)** as a complete Advanced Database Systems project. The system should be designed for a university environment to manage and automate examination-related academic activities. It should cover student records, departments, academic programmes, courses, lecturers, academic sessions, semesters, course registrations, examination schedules, examination venues, invigilators, student attendance, examination scores, grading and final results. The system should support operations such as registering students, managing courses, enrolling students in courses, scheduling examinations, allocating examination venues, assigning invigilators, recording attendance, entering examination scores, calculating grades and GPA, and generating examination reports. Use **MySQL 8.0 as the primary relational database** to maintain structured academic records and ensure data consistency, and **MongoDB as a supplementary NoSQL database** for appropriate document-based records and reporting. The project should demonstrate advanced database concepts, including database normalization, entity relationships, primary and foreign keys, integrity constraints, CRUD operations, complex SQL queries, stored procedures, functions, triggers, views, indexing, query optimization, transaction management, concurrency control, role-based access, audit logging, backup and recovery, and controlled synchronization between the two databases. Include appropriate validation mechanisms to prevent duplicate registrations, invalid examination records, venue-capacity violations and conflicting examination schedules. Build the project from scratch, including database architecture, schema design, sample datasets, implementation scripts, testing procedures and technical documentation. The objective is to deliver a functional, reliable and secure examination management solution that demonstrates practical application of advanced relational and NoSQL database technologies in a university environment. Treat the university and all sample academic records as a fictional case study unless official institutional requirements are provided.
+The portfolio uses fictional records for MIT 8103 University Examination Management Exercise.
 
-The portfolio is being generated. Completed stages will appear in the commit history.
+- [Portfolio 1](portfolio-1-database-design/)
+- [Portfolio 2](portfolio-2-query-optimisation/)
+- [Portfolio 3](portfolio-3-transactions-concurrency/)
+- [Portfolio 4](portfolio-4-nosql/)
+- [Portfolio 5](portfolio-5-distributed-cloud/)
+
+[Final summary](Yusuf_Hayatudeen_0467301911705_FinalSummary.md) · [PDF](Yusuf_Hayatudeen_0467301911705_FinalSummary.pdf)
